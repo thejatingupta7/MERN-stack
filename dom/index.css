@@ -1,0 +1,12 @@
+.graph-container {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.bar {
+    width: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
